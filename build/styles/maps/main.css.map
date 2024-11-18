@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","var/cores.scss"],"names":[],"mappings":"AAEA,KACE,iBCHY","file":"../main.css","sourcesContent":["@use \"var/cores\";\n\nbody {\n  background-color: cores.$corVermelho;\n}","$corVermelho: #047aa4;"]}

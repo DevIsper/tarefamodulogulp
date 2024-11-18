@@ -1,0 +1,5 @@
+@use "var/cores";
+
+body {
+  background-color: cores.$corVermelho;
+}
